@@ -4,7 +4,9 @@ public class FasterFunctions {
 		float totalTime = 0;
 		long startTime = System.currentTimeMillis();
 		//Your Code Here
-		
+		Thread t = new Thread(() ->{
+			
+		});
 		
 		
 		
